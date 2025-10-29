@@ -1,0 +1,2 @@
+LangGraph is a graph-based orchestration framework for building stateful multi-agent AI workflows. It connects nodes that handle retrieval, summarization, planning, and memory.
+

@@ -1,0 +1,1 @@
+A research assistant collects relevant documents, summarizes them, and proposes next steps. Typical steps: retrieve, summarize, outline experiments or action items.

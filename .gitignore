@@ -1,0 +1,35 @@
+# 🧠 Python Cache and Compiled Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.py.class
+
+# 🧱 Virtual Environment
+venv/
+env/
+.venv/
+
+# 💾 Local State or User Data
+state.json
+*.db
+*.log
+
+# 🧰 System and Editor Files
+.idea/
+.vscode/
+*.code-workspace
+
+# 🧑‍💻 Flask specific temporary files
+instance/
+*.pid
+
+# 🗂️ Backup / Temporary Files
+*.bak
+*.tmp
+*.swp
+
+# 📄 Reports and Exports
+*.pdf
+*.json
+exports/
