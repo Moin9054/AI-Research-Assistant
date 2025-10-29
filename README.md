@@ -81,7 +81,7 @@ LangGraph is used to **structure the reasoning workflow**:
 ---
 
 ## 🧱 File Structure
-
+```
 AI-Research-Assistant/
 ├── app.py # Flask app: routes, UI, PDF export
 ├── graph.py # LangGraph-like pipeline (retriever, summarizer, planner)
@@ -92,7 +92,7 @@ AI-Research-Assistant/
 │ └── summary-tips.txt
 ├── README.md # Project documentation
 └── requirements.txt # Dependencies list
-
+```
 ---
 
 ## 🪄 Tech Stack
@@ -159,4 +159,5 @@ python app.py
 6️⃣ Open in Browser
 
 http://127.0.0.1:5000/
+
 
