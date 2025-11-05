@@ -1,4 +1,4 @@
-﻿# 🤖 AI Research Assistant
+﻿# 🤖 AI Multi-Agent Workflow Automation System
 
 > 🧠 A LangGraph powered AI workspace that answers research questions with concise summaries, implementation plans, and document-backed insights.
 
@@ -6,7 +6,7 @@
 
 ## 🌟 Overview
 
-**AI Research Assistant** is an intelligent web app built with **Flask**, **LangGraph**, and **LLMs (via OpenRouter or local models)**.
+**AI Multi-Agent Workflow Automation System** is an intelligent web app built with **Flask**, **LangGraph**, and **LLMs (via OpenRouter)**.
 
 It allows users to:
 
@@ -159,5 +159,6 @@ python app.py
 6️⃣ Open in Browser
 
 http://127.0.0.1:5000/
+
 
 
